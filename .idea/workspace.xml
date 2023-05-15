@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="162726c3-b5d1-404c-aa81-aade560be14b" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/src/BasicSyntaxConditionalStatementsandLoops/TriangleOfNumbers08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BasicSyntaxConditionalStatementsandLoops/Orders09.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BasicSyntaxConditionalStatementsandLoops/VendingMachine07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicSyntaxConditionalStatementsandLoops/VendingMachine07.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +45,7 @@
       <recent name="BasicSyntaxConditionalStatementsandLoops" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TriangleOfNumbers08">
+  <component name="RunManager" selected="Application.Orders09">
     <configuration name="EnglishNameoftheLastDigitMoreExercises02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BasicSyntaxConditionalStatementsandLoops.EnglishNameoftheLastDigitMoreExercises02" />
       <module name="JavaFundamentalsMay" />
@@ -73,8 +72,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintAndSum04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BasicSyntaxConditionalStatementsandLoops.PrintAndSum04" />
+    <configuration name="Orders09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BasicSyntaxConditionalStatementsandLoops.Orders09" />
       <module name="JavaFundamentalsMay" />
       <extension name="coverage">
         <pattern>
@@ -114,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Orders09" />
         <item itemvalue="Application.TriangleOfNumbers08" />
         <item itemvalue="Application.Vacation03" />
         <item itemvalue="Application.EnglishNameoftheLastDigitMoreExercises02" />
         <item itemvalue="Application.MoreExercises04" />
-        <item itemvalue="Application.PrintAndSum04" />
       </list>
     </recent_temporary>
   </component>
@@ -180,7 +179,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684099589465</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="update">
+      <created>1684182805300</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1684182805300</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
