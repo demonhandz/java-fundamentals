@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="162726c3-b5d1-404c-aa81-aade560be14b" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/src/BasicSyntaxConditionalStatementsandLoops/Orders09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BasicSyntaxConditionalStatementsandLoops/PadawanEquipment10.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +45,7 @@
       <recent name="BasicSyntaxConditionalStatementsandLoops" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Orders09">
+  <component name="RunManager" selected="Application.PadawanEquipment10">
     <configuration name="EnglishNameoftheLastDigitMoreExercises02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BasicSyntaxConditionalStatementsandLoops.EnglishNameoftheLastDigitMoreExercises02" />
       <module name="JavaFundamentalsMay" />
@@ -59,8 +59,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MoreExercises04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BasicSyntaxConditionalStatementsandLoops.MoreExercises04" />
+    <configuration name="Orders09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BasicSyntaxConditionalStatementsandLoops.Orders09" />
       <module name="JavaFundamentalsMay" />
       <extension name="coverage">
         <pattern>
@@ -72,8 +72,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Orders09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BasicSyntaxConditionalStatementsandLoops.Orders09" />
+    <configuration name="PadawanEquipment10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BasicSyntaxConditionalStatementsandLoops.PadawanEquipment10" />
       <module name="JavaFundamentalsMay" />
       <extension name="coverage">
         <pattern>
@@ -113,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PadawanEquipment10" />
         <item itemvalue="Application.Orders09" />
         <item itemvalue="Application.TriangleOfNumbers08" />
         <item itemvalue="Application.Vacation03" />
         <item itemvalue="Application.EnglishNameoftheLastDigitMoreExercises02" />
-        <item itemvalue="Application.MoreExercises04" />
       </list>
     </recent_temporary>
   </component>
@@ -186,7 +186,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684182805300</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="update">
+      <created>1684184466509</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1684184466509</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
