@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="162726c3-b5d1-404c-aa81-aade560be14b" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/src/BasicSyntaxConditionalStatementsandLoops/VendingMachine07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BasicSyntaxConditionalStatementsandLoops/TriangleOfNumbers08.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BasicSyntaxConditionalStatementsandLoops/VendingMachine07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicSyntaxConditionalStatementsandLoops/VendingMachine07.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +46,7 @@
       <recent name="BasicSyntaxConditionalStatementsandLoops" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.VendingMachine07">
+  <component name="RunManager" selected="Application.TriangleOfNumbers08">
     <configuration name="EnglishNameoftheLastDigitMoreExercises02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BasicSyntaxConditionalStatementsandLoops.EnglishNameoftheLastDigitMoreExercises02" />
       <module name="JavaFundamentalsMay" />
@@ -85,6 +86,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TriangleOfNumbers08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BasicSyntaxConditionalStatementsandLoops.TriangleOfNumbers08" />
+      <module name="JavaFundamentalsMay" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BasicSyntaxConditionalStatementsandLoops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Vacation03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BasicSyntaxConditionalStatementsandLoops.Vacation03" />
       <module name="JavaFundamentalsMay" />
@@ -98,22 +112,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VendingMachine07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BasicSyntaxConditionalStatementsandLoops.VendingMachine07" />
-      <module name="JavaFundamentalsMay" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BasicSyntaxConditionalStatementsandLoops.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.VendingMachine07" />
+        <item itemvalue="Application.TriangleOfNumbers08" />
         <item itemvalue="Application.Vacation03" />
         <item itemvalue="Application.EnglishNameoftheLastDigitMoreExercises02" />
         <item itemvalue="Application.MoreExercises04" />
@@ -172,7 +173,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684097649183</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="update">
+      <created>1684099589465</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1684099589465</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
