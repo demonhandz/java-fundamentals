@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="162726c3-b5d1-404c-aa81-aade560be14b" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/src/BasicSyntaxConditionalStatementsandLoops/PadawanEquipment10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataTypesAndVariables/IntegerOperations_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataTypesAndVariables/SumDigits_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataTypesAndVariables/SumOfChars_04.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,13 +48,13 @@
       <recent name="BasicSyntaxConditionalStatementsandLoops" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PadawanEquipment10">
-    <configuration name="EnglishNameoftheLastDigitMoreExercises02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BasicSyntaxConditionalStatementsandLoops.EnglishNameoftheLastDigitMoreExercises02" />
+  <component name="RunManager" selected="Application.SumOfChars_04">
+    <configuration name="IntegerOperations_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataTypesAndVariables.IntegerOperations_01" />
       <module name="JavaFundamentalsMay" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BasicSyntaxConditionalStatementsandLoops.*" />
+          <option name="PATTERN" value="DataTypesAndVariables.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -59,15 +62,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Orders09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BasicSyntaxConditionalStatementsandLoops.Orders09" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="JavaFundamentalsMay" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BasicSyntaxConditionalStatementsandLoops.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -85,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TriangleOfNumbers08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BasicSyntaxConditionalStatementsandLoops.TriangleOfNumbers08" />
+    <configuration name="SumDigits_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataTypesAndVariables.SumDigits_02" />
       <module name="JavaFundamentalsMay" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BasicSyntaxConditionalStatementsandLoops.*" />
+          <option name="PATTERN" value="DataTypesAndVariables.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Vacation03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BasicSyntaxConditionalStatementsandLoops.Vacation03" />
+    <configuration name="SumOfChars_04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataTypesAndVariables.SumOfChars_04" />
       <module name="JavaFundamentalsMay" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BasicSyntaxConditionalStatementsandLoops.*" />
+          <option name="PATTERN" value="DataTypesAndVariables.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SumOfChars_04" />
+        <item itemvalue="Application.SumDigits_02" />
+        <item itemvalue="Application.IntegerOperations_01" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.PadawanEquipment10" />
-        <item itemvalue="Application.Orders09" />
-        <item itemvalue="Application.TriangleOfNumbers08" />
-        <item itemvalue="Application.Vacation03" />
-        <item itemvalue="Application.EnglishNameoftheLastDigitMoreExercises02" />
       </list>
     </recent_temporary>
   </component>
@@ -193,7 +190,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684184466509</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="update">
+      <created>1684186813881</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1684186813881</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
