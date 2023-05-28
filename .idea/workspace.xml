@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="162726c3-b5d1-404c-aa81-aade560be14b" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/src/DataTypesAndVariables/IntegerOperations_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataTypesAndVariables/SumDigits_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataTypesAndVariables/SumOfChars_04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataTypesAndVariables/BeerKegs_08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataTypesAndVariables/TripletsOfLetters_06.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,9 +46,9 @@
       <recent name="BasicSyntaxConditionalStatementsandLoops" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SumOfChars_04">
-    <configuration name="IntegerOperations_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DataTypesAndVariables.IntegerOperations_01" />
+  <component name="RunManager" selected="Application.TripletsOfLetters_06">
+    <configuration name="BeerKegs_08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataTypesAndVariables.BeerKegs_08" />
       <module name="JavaFundamentalsMay" />
       <extension name="coverage">
         <pattern>
@@ -62,19 +60,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="JavaFundamentalsMay" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PadawanEquipment10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BasicSyntaxConditionalStatementsandLoops.PadawanEquipment10" />
+    <configuration name="IntegerOperations_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataTypesAndVariables.IntegerOperations_01" />
       <module name="JavaFundamentalsMay" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BasicSyntaxConditionalStatementsandLoops.*" />
+          <option name="PATTERN" value="DataTypesAndVariables.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,13 +99,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TripletsOfLetters_06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataTypesAndVariables.TripletsOfLetters_06" />
+      <module name="JavaFundamentalsMay" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DataTypesAndVariables.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TripletsOfLetters_06" />
+        <item itemvalue="Application.BeerKegs_08" />
         <item itemvalue="Application.SumOfChars_04" />
         <item itemvalue="Application.SumDigits_02" />
         <item itemvalue="Application.IntegerOperations_01" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.PadawanEquipment10" />
       </list>
     </recent_temporary>
   </component>
@@ -197,7 +201,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684186813881</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="update">
+      <created>1684789358035</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1684789358035</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
