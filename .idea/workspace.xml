@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="162726c3-b5d1-404c-aa81-aade560be14b" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/src/Arrays/ArrayModifier_09.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/EqualSums_06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Methods/SmallestOfThreeNumbers_01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays/MagicSum_08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/MagicSum_08.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +45,7 @@
       <recent name="BasicSyntaxConditionalStatementsandLoops" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ArrayModifier_09">
+  <component name="RunManager" selected="Application.SmallestOfThreeNumbers_01">
     <configuration name="ArrayModifier_09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays.ArrayModifier_09" />
       <module name="JavaFundamentalsMay" />
@@ -87,6 +85,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SmallestOfThreeNumbers_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Methods.SmallestOfThreeNumbers_01" />
+      <module name="JavaFundamentalsMay" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Methods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TopIntegers_05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays.TopIntegers_05" />
       <module name="JavaFundamentalsMay" />
@@ -100,26 +111,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TripletsOfLetters_06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DataTypesAndVariables.TripletsOfLetters_06" />
-      <module name="JavaFundamentalsMay" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DataTypesAndVariables.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SmallestOfThreeNumbers_01" />
         <item itemvalue="Application.ArrayModifier_09" />
         <item itemvalue="Application.MagicSum_08" />
         <item itemvalue="Application.TopIntegers_05" />
         <item itemvalue="Application.ArrayRotation_04" />
-        <item itemvalue="Application.TripletsOfLetters_06" />
       </list>
     </recent_temporary>
   </component>
@@ -230,7 +228,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686749934751</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="update">
+      <created>1686947451932</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1686947451932</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
