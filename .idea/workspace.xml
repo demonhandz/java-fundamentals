@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="162726c3-b5d1-404c-aa81-aade560be14b" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/src/Methods/SmallestOfThreeNumbers_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RegularMidExam/ChatLogger_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RegularMidExam/TaxCalculator_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RegularMidExam/TheHuntingGame_01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +47,7 @@
       <recent name="BasicSyntaxConditionalStatementsandLoops" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SmallestOfThreeNumbers_01">
+  <component name="RunManager" selected="Application.TaxCalculator_02">
     <configuration name="ArrayModifier_09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays.ArrayModifier_09" />
       <module name="JavaFundamentalsMay" />
@@ -59,25 +61,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayRotation_04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.ArrayRotation_04" />
+    <configuration name="ChatLogger_03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RegularMidExam.ChatLogger_03" />
       <module name="JavaFundamentalsMay" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MagicSum_08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.MagicSum_08" />
-      <module name="JavaFundamentalsMay" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Arrays.*" />
+          <option name="PATTERN" value="RegularMidExam.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +87,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TopIntegers_05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.TopIntegers_05" />
+    <configuration name="TaxCalculator_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RegularMidExam.TaxCalculator_02" />
       <module name="JavaFundamentalsMay" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.*" />
+          <option name="PATTERN" value="RegularMidExam.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TheHuntingGame_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RegularMidExam.TheHuntingGame_01" />
+      <module name="JavaFundamentalsMay" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="RegularMidExam.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TaxCalculator_02" />
+        <item itemvalue="Application.ChatLogger_03" />
+        <item itemvalue="Application.TheHuntingGame_01" />
         <item itemvalue="Application.SmallestOfThreeNumbers_01" />
         <item itemvalue="Application.ArrayModifier_09" />
-        <item itemvalue="Application.MagicSum_08" />
-        <item itemvalue="Application.TopIntegers_05" />
-        <item itemvalue="Application.ArrayRotation_04" />
       </list>
     </recent_temporary>
   </component>
@@ -235,7 +237,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686947451932</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="update">
+      <created>1687036747274</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1687036747274</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
