@@ -4,12 +4,25 @@ public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        double b1 = Double.parseDouble(scanner.nextLine());
-        double b2 = Double.parseDouble(scanner.nextLine());
-        double h = Double.parseDouble(scanner.nextLine());
+        int num = Integer.parseInt(scanner.nextLine());
 
-        double area = (b1 + b2) * h / 2;
+        printTriangle(num);
+    }
 
-        System.out.printf("%.2f", area);
+    public static void printTriangle(int num) {
+
+        for (int i = 1; i <= num; i++) {
+            printLine(1, i);
+        }
+
+        for (int i = num - 1; i >= 1; i--)
+            printLine(1, i);
+    }
+
+    public static void printLine(int start, int end) {
+        for (int i = start; i <= end ; i++) {
+            System.out.print(i + " ");
+        }
+        System.out.println();
     }
 }
