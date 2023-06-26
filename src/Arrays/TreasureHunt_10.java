@@ -10,4 +10,3 @@ public class TreasureHunt_10 {
 
     }
 }
-
