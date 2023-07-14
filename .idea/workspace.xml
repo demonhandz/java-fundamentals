@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="162726c3-b5d1-404c-aa81-aade560be14b" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/src/Lists/CardsGame_06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lists/Train_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PracticeObjectsAndClasses/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PracticeObjectsAndClasses/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lists/AppendArrays_07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lists/BombNumbers_05.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lists/SoftUniCoursePlanning_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lists/SoftUniCoursePlanning_10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/TreasureHunt_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/TreasureHunt_10.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,9 +51,9 @@
       <recent name="BasicSyntaxConditionalStatementsandLoops" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Train_01">
-    <configuration name="ChangeList_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lists.ChangeList_02" />
+  <component name="RunManager" selected="Application.AppendArrays_07">
+    <configuration name="AppendArrays_07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lists.AppendArrays_07" />
       <module name="JavaFundamentalsMay" />
       <extension name="coverage">
         <pattern>
@@ -121,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AppendArrays_07" />
         <item itemvalue="Application.Train_01" />
         <item itemvalue="Application.Test1" />
         <item itemvalue="Application.ListOperations_04" />
         <item itemvalue="Application.HouseParty_03" />
-        <item itemvalue="Application.ChangeList_02" />
       </list>
     </recent_temporary>
   </component>
@@ -306,7 +304,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687987290254</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="update">
+      <created>1689334989392</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1689334989392</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
