@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="162726c3-b5d1-404c-aa81-aade560be14b" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/src/OrderByAge_06/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OrderByAge_06/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/advertismentMessage_01/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advertismentMessage_01/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/advertismentMessage_01/Message.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advertismentMessage_01/Message.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +50,7 @@
       <recent name="BasicSyntaxConditionalStatementsandLoops" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.OrderByAge_06.Main">
+  <component name="RunManager" selected="Application.advertismentMessage_01.Main">
     <configuration name="AppendArrays_07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lists.AppendArrays_07" />
       <module name="JavaFundamentalsMay" />
@@ -90,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Train_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lists.Train_01" />
+    <configuration name="advertismentMessage_01.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="advertismentMessage_01.Main" />
       <module name="JavaFundamentalsMay" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lists.*" />
+          <option name="PATTERN" value="advertismentMessage_01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.advertismentMessage_01.Main" />
         <item itemvalue="Application.OrderByAge_06.Main" />
         <item itemvalue="Application.vehicleCatalogue_05.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.AppendArrays_07" />
-        <item itemvalue="Application.Train_01" />
       </list>
     </recent_temporary>
   </component>
@@ -331,7 +331,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689533905329</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="update">
+      <created>1689534764398</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1689534764398</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
