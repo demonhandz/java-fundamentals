@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="162726c3-b5d1-404c-aa81-aade560be14b" name="Changes" comment="update">
+      <change afterPath="$PROJECT_DIR$/src/RegularFinalExam/EasterEggs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RegularFinalExam/Followers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RegularFinalExam/Hogwarts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/associativeArrays/HashMapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/associativeArrays/P04WordFilter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/advertismentMessage_01/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advertismentMessage_01/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/advertismentMessage_01/Message.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advertismentMessage_01/Message.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,30 +36,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/Georgi Danailov/Desktop/JavaFundamentalsMay",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Georgi Danailov/Desktop/JavaFundamentalsMay&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="BasicSyntaxConditionalStatementsandLoops" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.advertismentMessage_01.Main">
-    <configuration name="AppendArrays_07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lists.AppendArrays_07" />
+  <component name="RunManager" selected="Application.EasterEggs">
+    <configuration name="EasterEggs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RegularFinalExam.EasterEggs" />
       <module name="JavaFundamentalsMay" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lists.*" />
+          <option name="PATTERN" value="RegularFinalExam.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,12 +67,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Students_04.Main" />
+    <configuration name="Followers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RegularFinalExam.Followers" />
       <module name="JavaFundamentalsMay" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Students_04.*" />
+          <option name="PATTERN" value="RegularFinalExam.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OrderByAge_06.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OrderByAge_06.Main" />
+    <configuration name="HashMapTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="associativeArrays.HashMapTest" />
       <module name="JavaFundamentalsMay" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OrderByAge_06.*" />
+          <option name="PATTERN" value="associativeArrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="advertismentMessage_01.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="advertismentMessage_01.Main" />
+    <configuration name="Hogwarts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RegularFinalExam.Hogwarts" />
       <module name="JavaFundamentalsMay" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="advertismentMessage_01.*" />
+          <option name="PATTERN" value="RegularFinalExam.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="vehicleCatalogue_05.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="vehicleCatalogue_05.Main" />
+    <configuration name="P04WordFilter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="associativeArrays.P04WordFilter" />
       <module name="JavaFundamentalsMay" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="vehicleCatalogue_05.*" />
+          <option name="PATTERN" value="associativeArrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.advertismentMessage_01.Main" />
-        <item itemvalue="Application.OrderByAge_06.Main" />
-        <item itemvalue="Application.vehicleCatalogue_05.Main" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.AppendArrays_07" />
+        <item itemvalue="Application.EasterEggs" />
+        <item itemvalue="Application.Followers" />
+        <item itemvalue="Application.Hogwarts" />
+        <item itemvalue="Application.P04WordFilter" />
+        <item itemvalue="Application.HashMapTest" />
       </list>
     </recent_temporary>
   </component>
@@ -338,7 +341,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689534764398</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="update">
+      <created>1689535072432</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1689535072432</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -373,6 +383,11 @@
           <url>file://$PROJECT_DIR$/src/Arrays/MaxSequenceOfEqualElements_07.java</url>
           <line>18</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/associativeArrays/HashMapTest.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
