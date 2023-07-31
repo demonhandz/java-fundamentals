@@ -1,34 +1,21 @@
 package associativeArrays;
 
-import java.util.Map;
+
+import java.util.ArrayList;
 import java.util.Scanner;
-import java.util.Arrays;
-import java.util.TreeMap;
 
 public class P04WordFilter {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        double[] numbersArr = Arrays
-                .stream(scanner.nextLine().split(" "))
-                .mapToDouble(Double::parseDouble)
-                .toArray();
+        String[] wordsArr = scanner.nextLine().split(" ");
 
-        TreeMap<Double, Integer> countMap = new TreeMap<>();
-
-        //8 2 2 8 2
-
-        for (double num : numbersArr) {
-            if (!countMap.containsKey(num)) {
-                countMap.put(num, 0);
+        ArrayList<String> resultList = new ArrayList<>();
+        for (String item : wordsArr) {
+            if(item.length() % 2 == 0) {
+                resultList.add(item);
             }
-
-            countMap.put(num, countMap.get(num) + 1);
         }
-
-        for (Map.Entry<Double, Integer> entry : countMap.entrySet()) {
-            System.out.printf("%.0f -> %d%n", entry.getKey(), entry.getValue());
-        }
-
+        System.out.println(String.join(System.lineSeparator(), resultList));
     }
 }
