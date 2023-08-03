@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="162726c3-b5d1-404c-aa81-aade560be14b" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/src/associativeArrays/P02WordSynonyms.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/associativeArrays/P03OddOccurrences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/associativeArraysPractice/CountCharsInAString_01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/associativeArrays/P04WordFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/associativeArrays/P04WordFilter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +49,14 @@
       <recent name="BasicSyntaxConditionalStatementsandLoops" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.P03OddOccurrences">
+  <component name="RunManager" selected="Application.CountCharsInAString_01">
+    <configuration name="CountCharsInAString_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="associativeArraysPractice.CountCharsInAString_01" />
+      <module name="JavaFundamentalsMay" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="EasterEggs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="RegularFinalExam.EasterEggs" />
       <module name="JavaFundamentalsMay" />
@@ -67,19 +72,6 @@
     </configuration>
     <configuration name="Followers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="RegularFinalExam.Followers" />
-      <module name="JavaFundamentalsMay" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="RegularFinalExam.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Hogwarts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RegularFinalExam.Hogwarts" />
       <module name="JavaFundamentalsMay" />
       <extension name="coverage">
         <pattern>
@@ -119,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CountCharsInAString_01" />
         <item itemvalue="Application.P03OddOccurrences" />
         <item itemvalue="Application.P02WordSynonyms" />
         <item itemvalue="Application.EasterEggs" />
         <item itemvalue="Application.Followers" />
-        <item itemvalue="Application.Hogwarts" />
       </list>
     </recent_temporary>
   </component>
@@ -353,7 +345,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690730677405</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="update">
+      <created>1690842543147</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1690842543147</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
