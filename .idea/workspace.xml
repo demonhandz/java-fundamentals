@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="162726c3-b5d1-404c-aa81-aade560be14b" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/src/associativeArraysPractice/SoftuniParking_04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/associativeArraysPractice/ForceBook_09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/associativeArraysPractice/StudentAcademy_06.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +51,7 @@
       <recent name="BasicSyntaxConditionalStatementsandLoops" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SoftuniParking_04">
+  <component name="RunManager" selected="Application.Test">
     <configuration name="Ages01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BasicSyntaxConditionalStatementsandLoops.Ages01" />
       <module name="JavaFundamentalsMay" />
@@ -70,32 +72,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P02WordSynonyms" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="associativeArrays.P02WordSynonyms" />
-      <module name="JavaFundamentalsMay" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="associativeArrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="P03OddOccurrences" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="associativeArrays.P03OddOccurrences" />
-      <module name="JavaFundamentalsMay" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="associativeArrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="SoftuniParking_04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="associativeArraysPractice.SoftuniParking_04" />
       <module name="JavaFundamentalsMay" />
@@ -109,13 +85,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StudentAcademy_06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="associativeArraysPractice.StudentAcademy_06" />
+      <module name="JavaFundamentalsMay" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="associativeArraysPractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="JavaFundamentalsMay" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.StudentAcademy_06" />
         <item itemvalue="Application.SoftuniParking_04" />
         <item itemvalue="Application.Ages01" />
         <item itemvalue="Application.CountCharsInAString_01" />
-        <item itemvalue="Application.P03OddOccurrences" />
-        <item itemvalue="Application.P02WordSynonyms" />
       </list>
     </recent_temporary>
   </component>
@@ -359,7 +355,14 @@
       <option name="project" value="LOCAL" />
       <updated>1691081681200</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="update">
+      <created>1691415537048</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1691415537048</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
