@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="162726c3-b5d1-404c-aa81-aade560be14b" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/src/associativeArraysPractice/ForceBook_09.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/associativeArraysPractice/StudentAcademy_06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/training/Vacation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/associativeArraysPractice/ForceBook_09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/associativeArraysPractice/ForceBook_09.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,27 +50,7 @@
       <recent name="BasicSyntaxConditionalStatementsandLoops" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test">
-    <configuration name="Ages01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BasicSyntaxConditionalStatementsandLoops.Ages01" />
-      <module name="JavaFundamentalsMay" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BasicSyntaxConditionalStatementsandLoops.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CountCharsInAString_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="associativeArraysPractice.CountCharsInAString_01" />
-      <module name="JavaFundamentalsMay" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Vacation">
     <configuration name="SoftuniParking_04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="associativeArraysPractice.SoftuniParking_04" />
       <module name="JavaFundamentalsMay" />
@@ -105,13 +84,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Vacation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="training.Vacation" />
+      <module name="JavaFundamentalsMay" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="training.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Vacation03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BasicSyntaxConditionalStatementsandLoops.Vacation03" />
+      <module name="JavaFundamentalsMay" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BasicSyntaxConditionalStatementsandLoops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Vacation" />
+        <item itemvalue="Application.Vacation03" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.StudentAcademy_06" />
         <item itemvalue="Application.SoftuniParking_04" />
-        <item itemvalue="Application.Ages01" />
-        <item itemvalue="Application.CountCharsInAString_01" />
       </list>
     </recent_temporary>
   </component>
@@ -362,7 +367,14 @@
       <option name="project" value="LOCAL" />
       <updated>1691415537048</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="update">
+      <created>1693766245276</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1693766245276</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
